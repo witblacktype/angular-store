@@ -18,6 +18,7 @@
       this.current = newGallery || 0;
     };
   });
+  app.controller("ReviewController",)
   var utensils = [
     {
       name: "Knife",
